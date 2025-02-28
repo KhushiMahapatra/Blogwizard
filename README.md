@@ -1,1 +1,1 @@
-# Blogsystem
+# Blogwizard
